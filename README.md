@@ -2,7 +2,7 @@
 
 🖥️ Site criado para teste de habilidades e complemento de portfólio.
 
-🎲 Feito com conhecimentos básicos de HTML, CSS e JavaScript.
+🎲 Feito com conhecimentos intermediários de HTML, CSS e um pouco de JavaScript.
 
 🌌 Fotos retiradas do Pixabay & Pexels.
 
