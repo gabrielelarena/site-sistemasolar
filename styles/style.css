@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*conf do menu*/
+
+i#menus {
+    color: rgb(255, 255, 255);
+    display: block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.logo {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 28px;
+    padding: 20px 0px 0px 0px;
+    font-weight: 300;
+}
+
+menu {
+    display: none;
+}
+
+menu ul li a {
+    padding: 20px 0px 0px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    color: #fff;
+    display: block;
+}
+
+li {
+    text-align: center;
+}
+
+a:hover {
+    font-weight: 600;
+    text-decoration: overline;
+}
+
+@media screen and (min-width:790px) {
+    i#menus {
+        display: none;
+    }
+
+    menu {
+        display: block;
+        text-align: center;
+    }
+
+    ul li {
+        display: inline-block;
+    }
+
+}
+/*conf do resto*/
+
+.solar {
+    width: 92vw;
+    border-radius: 12px;
+    display: block;
+    margin: 0 auto;
+} 
+
+footer {
+    text-align: center;
+}
+
+footer p a{
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    padding: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Shadows Into Light', cursive, arial;
+}
+
+footer a:hover {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+body {
+    background-color: black;
+}

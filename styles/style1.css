@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*conf do menu e comuns*/
+
+body {
+    background-color: black;
+}
+
+i#menus {
+    color: rgb(255, 255, 255);
+    display: block;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+p {
+    color: white;
+    line-height: 0.7cm;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    padding-left: 0.1cm;
+    padding: 5px;
+}
+
+article > p {
+    text-indent: 0.8cm;
+}
+
+.planet {
+    display: block;
+    margin: auto;
+}
+
+.logo {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+    padding: 30px;
+    font-weight: 300;
+}
+
+menu {
+    display: none;
+}
+
+menu ul li a {
+    padding: 20px 0px 0px 15px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    color: #fff;
+    display: block;
+}
+
+li {
+    text-align: center;
+}
+
+a:hover {
+    font-weight: 600;
+    text-decoration: overline;
+}
+
+@media screen and (min-width:790px) {
+    i#menus {
+        display: none;
+    }
+
+    menu {
+        display: block;
+        text-align: center;
+    }
+
+    ul li {
+        display: inline-block;
+    }
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    margin-top: 10px;
+}
+
+footer p {
+    color: black;
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive, arial;
+}
+
+/*conf da tabela*/
+
+.container {
+    text-align: center;
+    overflow: hidden;
+    width: 500px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.container td {
+    padding: 2% 4%;
+    font-family: 'raleway', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #FFF;
+    background-color: rgba(65, 55, 55, 0.493);
+}
+
+.container td:hover {
+    background-color: #000000;
+    color: #fff;
+}
+
+@media screen and (max-width: 1024px) {
+    .planet {
+        width: 275px;
+    }
+
+    .container {
+        width: 250px;
+        font-size: 12px;
+    }
+
+    .logo {
+        font-size: 26px;
+        padding: 10px;
+    }
+
+    p {
+        font-size: 15px;
+    }
+}
+
+/*conf separadas*/
+
+article {
+    border-radius: 10px;
+    width: 70vw;
+    padding: 13px;
+    text-align: justify;
+    display: block;
+    margin: auto;
+}
+
+
+h3 {
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    text-align: left;
+    color: #fff;
+    text-indent: 1cm;
+    font-size: 24px;
+    padding: 20px 0px 10px 0px;
+    font-weight: 300;
+}
+
+#phone {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
