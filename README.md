@@ -8,11 +8,11 @@ Demonstrar domínio prático de tecnologias web através da criação de uma pá
 
 ## 🧰 Tecnologias Utilizadas
 
-> **HTML5** – estrutura semântica da página
+**HTML5** – estrutura semântica da página
 
-> **CSS3** – estilização e layout moderno
+**CSS3** – estilização e layout moderno
 
-> **JavaScript** – interações simples e dinâmicas
+**JavaScript** – interações simples e dinâmicas
 
 ## 🎨 Imagens
 
