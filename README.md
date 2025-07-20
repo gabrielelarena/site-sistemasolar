@@ -8,11 +8,7 @@ Demonstrar domínio prático de tecnologias web através da criação de uma pá
 
 ## 🧰 Tecnologias Utilizadas
 
-**HTML5** – estrutura semântica da página
-
-**CSS3** – estilização e layout moderno
-
-**JavaScript** – interações simples e dinâmicas
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## 🎨 Imagens
 
