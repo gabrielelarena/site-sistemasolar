@@ -17,5 +17,6 @@ Demonstrar domínio prático de tecnologias web através da criação de uma pá
 ## 🎨 Imagens
 
 Todas as imagens utilizadas foram obtidas em bancos gratuitos:
-- [Pixabay](https://pixabay.com)
-- [Pexels](https://www.pexels.com)
+> [Pixabay](https://pixabay.com)
+
+> [Pexels](https://www.pexels.com)
