@@ -17,7 +17,6 @@ Este projeto contém as seguintes linguagens:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark)](https://skillicons.dev) 
 
 </div>
-
 <br> 
 
 ### 📄 Arquivos 
